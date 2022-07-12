@@ -1,3 +1,9 @@
+"""
+    @autor:         Edgar Figueroa
+    @date:          1/06/2022
+    @description:   -
+"""
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
